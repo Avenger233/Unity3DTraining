@@ -12,7 +12,7 @@
 >* [GOAP](http://alumni.media.mit.edu/~jorkin/goap.html)  
 
 ### MCP  
->* [Awesome-MCP-ZH(MCP 资源精选， MCP指南)](https://github.com/yzfly/Awesome-MCP-ZH)
+>* [Awesome-MCP-ZH(MCP 资源精选， MCP指南)](https://github.com/yzfly/Awesome-MCP-ZH)  
 >* [unity-mcp](https://github.com/CoplayDev/unity-mcp)  
 >* [UnityMCP](https://github.com/Arodoid/UnityMCP)  
 >* [UnrealMCP](https://github.com/kvick-games/UnrealMCP)  
@@ -20,7 +20,8 @@
 >* [uLoopMCP](https://github.com/hatayama/uLoopMCP/)
 >* [SharpToolsMCP](https://github.com/kooshi/SharpToolsMCP)
 >* [mcp-perforce](https://github.com/Cocoon-AI/mcp-perforce)
->* [genai-toolbox - MCP Toolbox for Databases is an open source MCP server for databases](https://github.com/googleapis/genai-toolbox)  
+>* [genai-toolbox - MCP Toolbox for Databases is an open source MCP server for databases](https://github.com/googleapis/genai-toolbox)
+>* [15 分钟内构建你的第一个 MCP 服务器](https://mp.weixin.qq.com/s/GHWDnIgJv0IoMiPLFrbFrA)  
 
 ### Skill  
 >* [superpowers - Claude Code superpowers: core skills library](https://github.com/obra/superpowers)
