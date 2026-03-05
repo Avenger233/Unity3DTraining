@@ -23,7 +23,8 @@
 >* [genai-toolbox - MCP Toolbox for Databases is an open source MCP server for databases](https://github.com/googleapis/genai-toolbox)
 >* [15 分钟内构建你的第一个 MCP 服务器](https://mp.weixin.qq.com/s/GHWDnIgJv0IoMiPLFrbFrA)
 >* [Build Your First MCP Server in 15 Minutes](https://medium.com/data-science-collective/build-your-first-mcp-server-in-15-minutes-complete-code-d63f85c0ce79)
->* [Unreal_mcp](https://github.com/ChiR24/Unreal_mcp)  
+>* [Unreal_mcp](https://github.com/ChiR24/Unreal_mcp)
+>* [mcp-go](https://github.com/mark3labs/mcp-go)  
 
 ### Skill  
 >* [superpowers - Claude Code superpowers: core skills library](https://github.com/obra/superpowers)
