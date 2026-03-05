@@ -97,7 +97,8 @@
 * [LLGL - Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal](https://github.com/LukasBanana/LLGL)  
 
 ## 动画  
-* [Motion-Matching](https://github.com/orangeduck/Motion-Matching)  
+* [Motion-Matching](https://github.com/orangeduck/Motion-Matching)
+* [在UE5中，预测脚步IK实现-PredictFootIK](https://mp.weixin.qq.com/s/64Mye5xvBpBSjHsZUGTPrQ)  
 
 ## 开源引擎  
 * [Game Engines with Source: Learning from the best](https://github.com/redorav/public_source_engines)
