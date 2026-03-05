@@ -50,7 +50,8 @@
 >* [RedInk - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器](https://github.com/HisMax/RedInk)
 >* [Wan2GP - A fast AI Video Generator for the GPU Poor](https://github.com/deepbeepmeep/Wan2GP)
 >* [json-render (AI → JSON → UI)](https://github.com/vercel-labs/json-render)
->* [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)  
+>* [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+>* [Toonflow-app 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频](https://github.com/HBAI-Ltd/Toonflow-app)  
 
 ### AI friend  
 >* [xiaozhi-esp32 小智 AI 聊天机器人](https://github.com/78/xiaozhi-esp32)
